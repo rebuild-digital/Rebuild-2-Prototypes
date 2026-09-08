@@ -1,6 +1,6 @@
 # Rebuild 2 Prototypes
 
-A collection of the public prototypes built during 48 hours for European social platforms at Rebuild 2 in Helsinki, August 30th–September 1st, 2026.
+A collection of the public prototypes built during 48 hours for European social platforms at Rebuild 2 in Helsinki, August 30th–September 1st, 2026. The prototypes were developed primarily with Lovable and Claude Code, under the initiative lead Sarper Erel.
 
 ---
 
