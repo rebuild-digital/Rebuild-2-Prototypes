@@ -10,9 +10,9 @@ A collection of the public prototypes built during 48 hours for European social 
 
 TODO_LIVE_PREVIEW
 
-*TODO_TAGLINE*
+*Pick who you need to move. The letter argues it for them.*
 
-TODO_DESCRIPTION
+The Rebuild Letter makes the case that social platforms are critical infrastructure and that Europe needs to build better ones. Rather than one fixed text, it asks who you want to move — your workplace, an investor, a policymaker, a school, your friends — and rewrites the argument for that audience, with sources. Signing adds your name to a public list, and the final step drafts a message for the audience you chose and opens a directory of European platforms to share it on.
 
 TODO_GITHUB_REPO
 
@@ -24,9 +24,9 @@ TODO_GITHUB_REPO
 
 TODO_LIVE_PREVIEW
 
-*TODO_TAGLINE*
+*A living map of disagreement.*
 
-TODO_DESCRIPTION
+Agora takes any article, ruling, paper or strategy memo and, before anyone speaks, extracts its claims and open questions, maps who has standing — those affected by the outcome and those invited for expertise — then proposes a panel of constructed personas, each with an explicit mandate. In the deliberation that follows, every argument carries its sources, audience comments cluster into questions that pause the panel, and when a participant changes position the revision is recorded with the reason.
 
 TODO_GITHUB_REPO
 
@@ -80,8 +80,8 @@ TODO_GITHUB_REPO
 
 TODO_LIVE_PREVIEW
 
-*TODO_TAGLINE*
+*Version control for writing.*
 
-TODO_DESCRIPTION
+Writ replaces the single shared draft — where edits collide and ideas get watered down to keep the peace — with branches: everyone writes their version in peace, then merges. A semantic merge compares what each edit means rather than which characters changed, so tidied wording is accepted automatically while a change that alters the meaning is flagged for discussion. Conflicts resolve once and merge for everyone, and the document's whole history stays readable on one map.
 
 TODO_GITHUB_REPO
