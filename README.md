@@ -36,13 +36,11 @@ TODO_GITHUB_REPO
 
 ![Friend of a Friend](gifs/friendofafriend.gif)
 
-TODO_LIVE_PREVIEW
+*Who do we both know?*
 
-*TODO_TAGLINE*
+Friend of a Friend answers the question two people ask the moment they meet: who do we both know? Hold two phones together and they swap scrambled fingerprints of each address book — never the contacts themselves, never through a server — and intersect them on the spot. The mutuals surface immediately, each under the name you saved them as. Every exchange grows a private spiderweb of your social world, where people you cannot yet resolve sit as locked nodes, waiting to be unlocked by the next person you meet.
 
-TODO_DESCRIPTION
-
-TODO_GITHUB_REPO
+[GitHub repository](https://github.com/steffentchr/rebuild-friend-of-a-friend-)
 
 ---
 
