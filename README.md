@@ -22,6 +22,8 @@ The Rebuild Letter makes the case that social platforms are critical infrastruct
 
 Agora takes any article, ruling, paper or strategy memo and, before anyone speaks, extracts its claims and open questions, maps who has standing — those affected by the outcome and those invited for expertise — then proposes a panel of constructed personas, each with an explicit mandate. In the deliberation that follows, every argument carries its sources, audience comments cluster into questions that pause the panel, and when a participant changes position the revision is recorded with the reason.
 
+[GitHub repository](https://github.com/tims-not-real/rebuild2-agora-mockup)
+
 ---
 
 ## Friend of a Friend
